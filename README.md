@@ -85,5 +85,3 @@
 | -------------- | -------------------------------------------- |
 | `git clean -f` | Remove untracked files                       |
 | `git gc`       | Clean up unnecessary files and optimize repo |
-
-nn
