@@ -1,5 +1,3 @@
-# Git-Commands-Cheat-Sheet
-
 # Git Commands Cheat Sheet
 
 ## 1. Configuration Commands
